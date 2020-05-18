@@ -15,5 +15,5 @@ subjects:
   apiGroup: rbac.authorization.k8s.io
 roleRef:
   kind: ClusterRole
-  name: viewer
+  name: view
   apiGroup: rbac.authorization.k8s.io
